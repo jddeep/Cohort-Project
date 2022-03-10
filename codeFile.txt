@@ -2,7 +2,7 @@ int main () {
 
    int a = 5;
    int b = 6;
-   int diff = a - b;
-   return diff;
+   int sum = a + b;
+   return sum;
 
 }
